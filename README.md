@@ -1,6 +1,6 @@
 
 # Tesla Stock Data Analysis
-Project Completion Date:2018
+Project Completion Date:2021
 
 ## overview
 
